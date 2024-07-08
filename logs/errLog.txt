@@ -3,3 +3,4 @@
 20240203	16:02:59	6cb15de3-be87-4b25-bae0-1a5bbc24a6cc	Error: ENOENT: no such file or directory, stat '/Users/alba.j/Desktop/Projects/expressJS-routing/routes/views/index.html'
 20240303	16:03:53	c6f5ff4d-080a-4258-984c-f79b2206145d	Error: ENOENT: no such file or directory, stat '/Users/alba.j/Desktop/Projects/expressJS-routing/routes/views/new-page.html'
 20243003	16:30:02	8c39841b-fbb0-4d59-84fc-756ae1c0f83a	TypeError: req.json is not a function
+20243008	16:30:54	d4dcb008-b068-4a2f-bb01-27b3298e25a3	SyntaxError: Expected double-quoted property name in JSON at position 45
